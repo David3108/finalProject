@@ -1,0 +1,15 @@
+C:\Users\dmitr\RiderProjects\OOP_final\OOP_final\bin\Debug\net6.0\OOP_final.exe
+C:\Users\dmitr\RiderProjects\OOP_final\OOP_final\bin\Debug\net6.0\OOP_final.deps.json
+C:\Users\dmitr\RiderProjects\OOP_final\OOP_final\bin\Debug\net6.0\OOP_final.runtimeconfig.json
+C:\Users\dmitr\RiderProjects\OOP_final\OOP_final\bin\Debug\net6.0\OOP_final.dll
+C:\Users\dmitr\RiderProjects\OOP_final\OOP_final\bin\Debug\net6.0\ref\OOP_final.dll
+C:\Users\dmitr\RiderProjects\OOP_final\OOP_final\bin\Debug\net6.0\OOP_final.pdb
+C:\Users\dmitr\RiderProjects\OOP_final\OOP_final\obj\Debug\net6.0\OOP_final.csproj.AssemblyReference.cache
+C:\Users\dmitr\RiderProjects\OOP_final\OOP_final\obj\Debug\net6.0\OOP_final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\RiderProjects\OOP_final\OOP_final\obj\Debug\net6.0\OOP_final.AssemblyInfoInputs.cache
+C:\Users\dmitr\RiderProjects\OOP_final\OOP_final\obj\Debug\net6.0\OOP_final.AssemblyInfo.cs
+C:\Users\dmitr\RiderProjects\OOP_final\OOP_final\obj\Debug\net6.0\OOP_final.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\RiderProjects\OOP_final\OOP_final\obj\Debug\net6.0\OOP_final.dll
+C:\Users\dmitr\RiderProjects\OOP_final\OOP_final\obj\Debug\net6.0\ref\OOP_final.dll
+C:\Users\dmitr\RiderProjects\OOP_final\OOP_final\obj\Debug\net6.0\OOP_final.pdb
+C:\Users\dmitr\RiderProjects\OOP_final\OOP_final\obj\Debug\net6.0\OOP_final.genruntimeconfig.cache
